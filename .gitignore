@@ -1,0 +1,8 @@
+# Binaries and object files
+*.exe
+*.o
+*.obj
+*.out
+
+# Data persistence test files
+data/parking_state.txt
