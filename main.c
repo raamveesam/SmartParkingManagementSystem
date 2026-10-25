@@ -1,8 +1,7 @@
 /*
  * ============================================================
  *  BayTrack: Multi-Level Parking Management System
- *  Author  : raamveesam
- *  Language: C99
+ *  Language: C
  *
  *  Core DSA:
  *   [1] Static Array   -> bay_grid[] holds every physical parking bay
